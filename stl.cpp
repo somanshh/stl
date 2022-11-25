@@ -3,6 +3,7 @@
 #include <set>
 #include <algorithm>
 #include <map>
+#include <bits/stdc++.h>
 
 using namespace std;
 
@@ -145,29 +146,7 @@ int main()
 }
 /*
 .
-.
-.
-.
-.
-.
-.
-.
 
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-
-.
 .*/
 // .
 // .
